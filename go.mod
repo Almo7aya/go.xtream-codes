@@ -1,4 +1,4 @@
-module github.com/ngdio/go.xtream-codes
+module github.com/almo7aya/go.xtream-codes
 
 go 1.17
 
